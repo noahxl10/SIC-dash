@@ -1,0 +1,70 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Athiti:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Athiti:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=bungee&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
+
+a {
+  color: white;
+  font-family: courier;
+}
+
+a:hover {
+  color: #33ccff;
+}
+/* PAGE HEADERS */
+h1 {
+  font-weight: 700; 
+  padding-left: 10px; 
+  padding-right: 10px; 
+  padding-top: 10px; 
+  padding-bottom: 10px; 
+  font-family: 'Quicksand', sans-serif;
+  color: white; 
+  background-color: #3c3c3c;
+}
+/* SECOND HEADER (LIKE FOR STATS OF PROJECT) */
+h2 {
+  font-size: 24px;
+  color: black;
+  font-weight: 700;
+  font-family: 'Quicksand', sans-serif;
+}
+/* UNSPECIFIED */
+h3 {
+
+  font-size: 20px;
+  color: black;
+  font-weight: 700;
+  font-family: 'Quicksand', sans-serif;
+}
+/* CERTAIN HEADERS*/
+h4 {
+
+  font-size: 23px;
+  color: black;
+  font-weight: 700;
+
+  font-family: 'Quicksand', sans-serif;
+}
+/* IN BODY TEXT */
+h5 {
+
+  font-size: 20px;
+  color: black;
+  font-weight: 500;
+
+  font-family: 'Quicksand', sans-serif;
+}
+
+/* STATISTICS */
+h6 {
+
+  font-size: 21px;
+  color: black;
+  font-family: 'Quicksand', sans-serif;
+}
+
+
+
